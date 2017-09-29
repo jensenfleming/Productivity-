@@ -1,17 +1,17 @@
 This is an editble, and everchanging document. Please contribute! 
 
 Table of Contents:
-- [Computer Shortcuts](https://github.com/jensenfleming/Productivity-/wiki/Slack-&-Alfred#computer-shortcuts)
-- [Chrome Shortcuts](https://github.com/jensenfleming/Productivity-/wiki/Slack-&-Alfred#chrome-shortcuts)
-- [Gmail Shortcuts](https://github.com/jensenfleming/Productivity-/wiki/Slack-&-Alfred#gmail-shortcuts)
-- [Slack Main Shortcuts](https://github.com/jensenfleming/Productivity-/wiki/Slack-&-Alfred#main-shortcuts-cmd-)
-- [Helpful Slack Commands](https://github.com/jensenfleming/Productivity-/wiki/Slack-&-Alfred#helpful-slack-commands)
-- [Slack Reminders](https://github.com/jensenfleming/Productivity-/wiki/Slack-&-Alfred#reminders-slacks-best-kept-secret)
-- [To Do List](https://github.com/jensenfleming/Productivity-/wiki/Slack-&-Alfred#to-do-list)
-- [Great Slash Commands](https://github.com/jensenfleming/Productivity-/wiki/Slack-&-Alfred#other-slash-commands)
-- [Alfred SetUp](https://github.com/jensenfleming/Productivity-/wiki/Slack-&-Alfred#alfred-app)
-- [Create an Alfred Web Search](https://github.com/jensenfleming/Productivity-/wiki/Slack-&-Alfred#set-up-a-web-search)
-- [Other Great Alfred Commands](https://github.com/jensenfleming/Productivity-/wiki/Slack-&-Alfred#many-alfred-commands)
+- [Computer Shortcuts](https://github.com/jensenfleming/Productivity-/blob/master/README.md#computer-shortcuts)
+- [Chrome Shortcuts](https://github.com/jensenfleming/Productivity-/blob/master/README.md#chrome-shortcuts)
+- [Gmail Shortcuts](https://github.com/jensenfleming/Productivity-/blob/master/README.md#gmail-shortcuts)
+- [Slack Main Shortcuts](https://github.com/jensenfleming/Productivity-/blob/master/README.md#main-shortcuts-cmd-)
+- [Helpful Slack Commands](https://github.com/jensenfleming/Productivity-/blob/master/README.md#helpful-slack-commands)
+- [Slack Reminders](https://github.com/jensenfleming/Productivity-/blob/master/README.md#reminders-slacks-best-kept-secret)
+- [To Do List](https://github.com/jensenfleming/Productivity-/blob/master/README.md#to-do-list)
+- [Great Slash Commands](https://github.com/jensenfleming/Productivity-/blob/master/README.md#other-slash-commands)
+- [Alfred SetUp](https://github.com/jensenfleming/Productivity-/blob/master/README.md#alfred-app)
+- [Create an Alfred Web Search](https://github.com/jensenfleming/Productivity-/blob/master/README.md#set-up-a-web-search)
+- [Other Great Alfred Commands](https://github.com/jensenfleming/Productivity-/blob/master/README.md#many-alfred-commands)
 
 # General Computer/Chrome/Gmail shortcuts
 I just want to start with a few basic shortcuts that will save you time and sanity
